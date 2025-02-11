@@ -1,6 +1,6 @@
 {
   "name": "@imjs/electron-differential-updater",
-  "version": "5.1.7",
+  "version": "5.1.8",
   "description": "Cross platform differential updater for electron applications",
   "main": "out/main.js",
   "license": "MIT",
@@ -27,7 +27,6 @@
     "lodash.isequal": "^4.5.0",
     "semver": "^7.3.2",
     "watch": "^1.0.2",
-    "zlib": "^1.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
